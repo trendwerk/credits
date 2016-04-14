@@ -1,9 +1,9 @@
 <?php
 /**
- * Plugin Name: Trendwerk Credits
+ * Plugin Name: Credits
  * Description: Adds a metatag to credit the developer (Trendwerk).
  *
- * Plugin URI: https://github.com/trendwerk/trendwerk-credits
+ * Plugin URI: https://github.com/trendwerk/credits
  *
  * Author: Trendwerk
  * Author URI: https://github.com/trendwerk
