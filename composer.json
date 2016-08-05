@@ -1,16 +1,16 @@
 {
-	"name": "trendwerk/credits",
-	"description": "Adds a metatag to credit the developer (Trendwerk).",
-	"type": "wordpress-muplugin",
-	"license": "GPL-2.0+",
-	"authors": [
-		{
-			"name": "Sjoerd Boerrigter",
-			"email": "sjoerd@trendwerk.nl"
-		}
-	],
-	"require": {
-		"php": ">=5.4",
-		"composer/installers": "v1.0.19"
+  "name": "trendwerk/credits",
+  "description": "Adds a metatag to credit the developer (Trendwerk).",
+  "type": "wordpress-muplugin",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Sjoerd Boerrigter",
+      "email": "sjoerd@trendwerk.nl"
     }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "composer/installers": "v1.0.19"
+  }
 }
