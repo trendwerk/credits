@@ -8,7 +8,7 @@
  * Author: Trendwerk
  * Author URI: https://github.com/trendwerk
  *
- * Version: 0.1.0
+ * Version: 0.1.1
  */
 
 add_action('wp_head', function () {
