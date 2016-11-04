@@ -12,5 +12,5 @@
  */
 
 add_action('wp_head', function () {
-    echo '<meta name="web_author" content="Trendwerk, info@trendwerk.nl">' . "\n";
+    echo '<meta name="web_author" content="Trendwerk, hallo@trendwerk.nl">' . "\n";
 });
